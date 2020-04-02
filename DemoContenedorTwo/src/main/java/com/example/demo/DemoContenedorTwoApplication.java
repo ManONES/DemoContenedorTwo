@@ -43,7 +43,7 @@ public class DemoContenedorTwoApplication {
 		
 			
 		
-		return "Hola " + input + ", este el mundo de Many";
+		return "Hola " + input + ", este el  mundo de Many";
 	}
 	
 	public static void main(String[] args) {
