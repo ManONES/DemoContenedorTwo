@@ -18,7 +18,7 @@ public class DemoContenedorTwoApplication {
 	
 	@GetMapping("/")
 	public String welcome() {
-		return "Hola al mundo de Many con autoescalado";
+		return "Hola al mundo de Many con  autoescalado";
 	}
 	
 	@GetMapping("/{input}")
