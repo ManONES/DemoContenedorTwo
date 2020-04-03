@@ -23,8 +23,7 @@ public class DemoContenedorTwoApplication {
 	
 	@GetMapping("/{input}")
 	public String congrats(@PathVariable String input) {
-		
-		
+				
 		
         int i = Integer.valueOf(input);
         int iii = 0;        
